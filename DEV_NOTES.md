@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-20
 - Ran linter, applied auto-fixes
 - Cleaned up old debug logs
+
+## 2026-05-20
+- Resolved TODO items from previous session
+- Consolidated duplicate helper functions
